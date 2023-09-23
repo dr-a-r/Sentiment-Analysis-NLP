@@ -1,2 +1,2 @@
-# Twitter-Sentiment-Analysis---NLP
-Twitter Sentiment Analysis Project using NLP
+# Sentiment-Analysis---NLP
+Sentiment analysis of Tweets using NLP methods.
